@@ -1,3 +1,5 @@
+<img width="850" height="412" alt="Fine-Tuned_Banner_001" src="https://github.com/user-attachments/assets/e5471847-e24a-43cc-82b0-78916667f104" />
+
 # Fine-Tuned
 
 An Intuitive Desktop GUI for Fine-Tuning Language Models.
